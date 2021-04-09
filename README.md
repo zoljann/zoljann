@@ -3,10 +3,10 @@
 ## I'm a Software engineering student
 
 - 🔭 I just launched my first course: 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 goal: full stack developer
+- ⚡ love editing/making videos
 
 
 ### Connect with me:
@@ -30,5 +30,5 @@
 
 ---
 
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/zoljann
 [linkedin]: https://linkedin.com/in/codeSTACKr
