@@ -1,4 +1,4 @@
-### Hi, I'm Nedim
+### hi
 
 ## software engineering student
 
