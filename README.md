@@ -1,9 +1,9 @@
 ## software engineering student
 
 - 🌱 currently learning everything
-- 👯 looking to collaborate with other content creators
+- 👯 looking for people who love coding
 - 🥅 goal: full stack developer
-- ⚡ in love w photography
+- ⚡ in love w photography, videos & cars
 
 
 ### find me here:
