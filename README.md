@@ -1,10 +1,9 @@
-### Hi there, I'm Nedim 👋
+### Hi, I'm Nedim
 
-## I'm a Software engineering student
+## Software engineering student
 
-- 🔭 I just launched my first course: 
-- 🌱 Currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 currently learning everything
+- 👯 looking to collaborate with other content creators
 - 🥅 goal: full stack developer
 - ⚡ love editing/making videos
 
