@@ -1,7 +1,6 @@
 ## software engineering student
 
 🎓 currently learning everything <br>
-💼 looking for people who love coding <br>
 💻 in love w coding, photography & cars <br>
 
 
