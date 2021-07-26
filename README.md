@@ -1,6 +1,6 @@
 ## software engineering student
 
-🎓 currently learning everything <br>
+🎓 currently learning web development <br>
 💻 in love with coding, photography & cars <br>
 
 
