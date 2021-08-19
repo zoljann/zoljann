@@ -1,7 +1,7 @@
 ## software engineering student
 
-🎓 currently learning web development <br>
-💻 in love with coding, photography & cars <br>
+🎓 Currently learning web development <br>
+💻 In love with coding, photography & cars <br>
 
 
 ### find me:
