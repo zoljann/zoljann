@@ -3,6 +3,7 @@
 👨‍🎓 I'm Nedim, second year software engineering student at [@fit.ba](https://fit.ba/) <br>
 🎓 Currently learning web development <br>
 💻 In love with coding, photography & cars <br>
+<img align="right" alt="GIF" src="https://c.tenor.com/RHVQs4LXYx0AAAAC/bored-house-md.gif" />
 
 ![](https://komarev.com/ghpvc/?username=zoljann&label=Profile+views)
 
