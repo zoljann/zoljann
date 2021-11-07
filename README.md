@@ -5,7 +5,6 @@
 💻 In love with coding, photography & cars <br>
 <img align="right" alt="GIF" src="https://c.tenor.com/RHVQs4LXYx0AAAAC/bored-house-md.gif" />
 <br>
-[Click here to visit my portfolio page](https://zoljann.github.io)
 
 ![](https://komarev.com/ghpvc/?username=zoljann&label=Profile+views)
 
