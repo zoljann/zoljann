@@ -1,4 +1,4 @@
-## Hey! 👋
+## hey! 👋
 
 👨‍🎓 I'm Nedim, second year software engineering student at [@fit.ba](https://fit.ba/) <br>
 🎓 Currently learning web development <br>
