@@ -13,4 +13,4 @@
  ## Contact:
 
 - [@zoljann](https://linkedin.com/in/zoljann) on LinkedIn
-- [@zoljann](https://twitter.com/instagram) on Instagram
+- [@zoljann](https://www.instagram.com/zoljannn/) on Instagram
