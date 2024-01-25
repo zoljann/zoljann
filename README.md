@@ -1,8 +1,8 @@
 ### About
 
-* Working as software developer in [NSoft](https://www.nsoft.com/)
+* Software developer at [NSoft](https://www.nsoft.com/)
 * Third year student at [Faculty of Information technologies](https://www.fit.ba/)
 * Currently expanding my knowledge by delving into advanced frontend patterns and acquiring backend concepts
-* Skills: _Javascript & Typescript, VueJS, Angular, SCSS_
+* Skills: _Javascript, Typescript, VueJS, Vuetify, AngularJS, SCSS_
 
-![](https://komarev.com/ghpvc/?username=zoljann&label=Profile+views)
+[![LinkedIn](https://img.shields.io/badge/Nedim%20Zolj-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zoljann/)
